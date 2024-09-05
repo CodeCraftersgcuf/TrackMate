@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TrackMate</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="hello_content_desc">Displays a greeting message</string> <!-- Accessibility description -->
 </resources>
